@@ -13,9 +13,9 @@ export default function LoginPage() {
     <div className="min-h-screen flex justify-center items-start md:items-center p-8">
       <Card className="w-full max-w-sm">
         <CardHeader>
-          <CardTitle className="text-2xl">Login</CardTitle>
+          <CardTitle className="text-2xl"> Login </CardTitle>
           <CardDescription>
-            This demo uses GitHub for authentication.
+            This demo uses Git for authentication.
           </CardDescription>
         </CardHeader>
         <CardFooter>
